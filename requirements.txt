@@ -1,0 +1,6 @@
+langchain==0.0.347
+langchain_experimental==0.0.44
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+st_pages==0.4.5
+streamlit==1.29.0

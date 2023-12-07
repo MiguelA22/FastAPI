@@ -1,0 +1,6 @@
+"""
+            prompt = st.chat_message("Ask questions of your data: ")
+            if prompt is not None and prompt != "":
+                #response = agent.run(prompt)
+                st.write(prompt)
+            """
